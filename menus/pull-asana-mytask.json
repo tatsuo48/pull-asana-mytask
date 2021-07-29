@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Pull Asana Mytask",
+        "command": "pull-asana-mytask:pull"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "pull-asana-mytask",
+          "submenu": [
+            {
+              "label": "Pull",
+              "command": "pull-asana-mytask:pull"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

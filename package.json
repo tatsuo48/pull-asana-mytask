@@ -1,0 +1,13 @@
+{
+  "name": "pull-asana-mytask",
+  "main": "./lib/pull-asana-mytask",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/tatsuo48/pull-asana-mytask",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
