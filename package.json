@@ -1,7 +1,7 @@
 {
   "name": "pull-asana-mytask",
   "main": "./lib/pull-asana-mytask",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "pull Asana mytask to Inkdrop",
   "keywords": [],
   "repository": "https://github.com/tatsuo48/pull-asana-mytask",
