@@ -26,4 +26,4 @@ https://user-images.githubusercontent.com/18544053/127612241-1f590306-bd1d-4288-
 
   - `Incomplete Only`
 
-    - If treu, only pull incomplete tasks. Default:false  
+    - If true, only pull incomplete tasks. Default:false  
