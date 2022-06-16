@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.2.0 - Add incomplete task only option
+## 0.3.0 - Add incomplete task only option
 
 - Add incomplete task only option
   - https://github.com/tatsuo48/pull-asana-mytask/pull/6
